@@ -1,1 +1,3 @@
-# Final_Data_Visualization
+# Vietnamese Social Scientific Analysis and Visualization
+
+This is final project in Data Visualization Class
